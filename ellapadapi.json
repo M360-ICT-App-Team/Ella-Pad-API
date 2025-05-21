@@ -1,0 +1,82 @@
+{
+  "success" : true,
+  "message" : "Fetched Questions Successfully",
+  "homeModelList": [
+    {
+      "question": "How often should I change my reusable Ella Pad?",
+      "answers": [
+        "You should change your Ella Pad every 4-6 hours, or more frequently if needed, depending on your flow.",
+        "If you have a heavy flow, you may need to change it more often.",
+        "Ensure the pad is dry and comfortable before reusing it."
+      ]
+    },
+    {
+      "question": "How do I wash my Ella Pads?",
+      "answers": [
+        "Pre-washing: Wash your pads before first use to activate absorbent fibers.",
+        "After use: Rinse pads in cold water or soak them overnight to prevent staining.",
+        "Washing: Add pads to your regular wash (30-40 degrees C) with a normal detergent, or hand wash with warm water and soap.",
+        "Fabric softener: Avoid using fabric softener as it can reduce absorbency."
+      ]
+    },
+    {
+      "question": "How do I attach my pad?",
+      "answers": [
+        "Attach the pad to your underwear with the soft black layer facing up.",
+        "Fold the wings underneath your underwear, and snap the poppers in place."
+      ]
+    },
+    {
+      "question": "What is the difference between light, medium, and large pads?",
+      "answers": [
+        "Different sizes are designed for varying flow levels and personal preference.",
+        "Light pads are suitable for lighter days, while large pads are for heavy flows.",
+        "Check the product details for specific size recommendations."
+      ]
+    },
+    {
+      "question": "How many Ella pads do I need?",
+      "answers": [
+        "You may need between 2 and 5 pads per day, depending on your flow.",
+        "A good starting point is 10-15 pads.",
+        "You can use them alongside disposables until you have enough cloth pads to last you a full cycle."
+      ]
+    },
+    {
+      "question": "How long do reusable pads last?",
+      "answers": [
+        "Reusable pads can last 5-10 years with average wear.",
+        "Some pads may last even longer, depending on the care and usage."
+      ]
+    },
+    {
+      "question": "How do I dry my Ella pads?",
+      "answers": [
+        "Air dry your pads to maintain their condition and be more environmentally friendly.",
+        "Use a 'sock' airer or hang them inside in winter for quick drying."
+      ]
+    },
+    {
+      "question": "Are there any other benefits of using reusable pads?",
+      "answers": [
+        "Environmental: Reusable pads reduce waste and are a more sustainable choice.",
+        "Cost-effective: Reusable pads are a long-term investment, potentially saving money over disposable pads.",
+        "Comfort: Some users find reusable pads more comfortable."
+      ]
+    },
+    {
+      "question": "What is about the hygiene safety of Ella maintained?",
+      "answers": [
+        "Ella pads are totally safe for women and maintaining hygiene.",
+        "It has been standardized and certified.",
+        "A group of local scientists and international experts are continuously giving feedback on our products quality in maintaining standards and ensuring safety and hygiene."
+      ]
+    },
+    {
+      "question": "How can I communicate further with Ella Pad team?",
+      "answers": [],
+      "email": "m.rahman@ellapad.org",
+      "phone": "+8801741514088"
+    }
+  ]
+}
