@@ -1,7 +1,7 @@
 {
   "success" : true,
   "message" : "Fetched Questions Successfully",
-  "homeModelList": [
+  "questions": [
     {
       "question": "How often should I change my reusable Ella Pad?",
       "answers": [
